@@ -1,0 +1,47 @@
+body {
+  font-family: 'montserrat', sans-serif;
+}
+
+p, li {
+  color: #323f3a;
+  font-size: 16px;
+}
+
+.trybo-green {
+  color: #11a36a;
+}
+
+.first-title {
+  color: #0a7e51;
+  line-height: 55px;
+  font-weight: 600;
+  font-size: 45px;
+}
+
+.section-title {
+  line-height: 42px;
+  font-weight: 600;
+  font-size: 28;
+}
+
+.picture {
+  border-radius: 100%;
+}
+
+.studant-testmonial {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+}
+
+.button {
+  color: #fff;
+  background-color: #11a36a;
+  padding: 15px 30px;
+  border-radius: 4%;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 600;
+  text-align: center;
+}
